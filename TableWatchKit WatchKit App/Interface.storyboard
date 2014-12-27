@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="6724" systemVersion="14A389" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="AgC-eL-Hgc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6711"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="3735"/>
+    </dependencies>
+    <scenes>
+        <!--Interface Controller-->
+        <scene sceneID="aou-V4-d1y">
+            <objects>
+                <controller id="AgC-eL-Hgc" customClass="InterfaceController" customModule="TableWatchKit_WatchKit_App" customModuleProvider="target">
+                    <items>
+                        <table alignment="left" layout="vertical" id="90b-Up-2e7">
+                            <items>
+                                <tableRow identifier="JLawRow" id="lax-R4-eMT" customClass="JLawTableRowController" customModule="TableWatchKit_WatchKit_Extension">
+                                    <group key="rootItem" width="1" alignment="left" id="Ex4-nI-eaB">
+                                        <items>
+                                            <imageView width="52" alignment="left" id="Dwf-pq-4IG"/>
+                                            <label width="73" height="37" alignment="left" text="Label" id="0e9-Cx-tqo"/>
+                                        </items>
+                                    </group>
+                                    <connections>
+                                        <outlet property="jLawImage" destination="Dwf-pq-4IG" id="sue-04-cAp"/>
+                                        <outlet property="jLawLabel" destination="0e9-Cx-tqo" id="V8B-Wc-rII"/>
+                                    </connections>
+                                </tableRow>
+                            </items>
+                        </table>
+                    </items>
+                    <connections>
+                        <outlet property="jLawTable" destination="90b-Up-2e7" id="xNK-KS-8T3"/>
+                    </connections>
+                </controller>
+            </objects>
+        </scene>
+    </scenes>
+</document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2815AC29-7E43-4A1F-9E41-3353888D3518</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TableWatchKit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B077713B17818279B1887C0872221FC33D53804D</key>
+		<string>https://github.com/jianyaoang/Turn-Around.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TableWatchKit/TableWatchKit.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B077713B17818279B1887C0872221FC33D53804D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jianyaoang/Turn-Around.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B077713B17818279B1887C0872221FC33D53804D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B077713B17818279B1887C0872221FC33D53804D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>testing</string>
+		</dict>
+	</array>
+</dict>
+</plist>
